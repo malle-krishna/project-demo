@@ -1,2 +1,2 @@
 # project-demo
-this is my frist projest
+this is my frist project
